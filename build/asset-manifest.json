@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ef3a49a.css",
+    "main.js": "/static/js/main.1c7cb822.js",
+    "static/js/787.a9c9ff8c.chunk.js": "/static/js/787.a9c9ff8c.chunk.js",
+    "static/media/autobahn-logo.png": "/static/media/autobahn-logo.0f8af1bc22ab06dac170.png",
+    "index.html": "/index.html",
+    "main.1ef3a49a.css.map": "/static/css/main.1ef3a49a.css.map",
+    "main.1c7cb822.js.map": "/static/js/main.1c7cb822.js.map",
+    "787.a9c9ff8c.chunk.js.map": "/static/js/787.a9c9ff8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef3a49a.css",
+    "static/js/main.1c7cb822.js"
+  ]
+}
