@@ -33,6 +33,7 @@ export default function PostsView() {
 
   useEffect(() => {
     dispatch(fetchPosts());
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const displayFormModal = () => {
